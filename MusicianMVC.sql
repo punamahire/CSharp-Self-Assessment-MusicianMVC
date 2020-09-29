@@ -14,6 +14,7 @@ DROP TABLE IF EXISTS MusicianInstrument;
 DROP TABLE IF EXISTS Instrument;
 DROP TABLE IF EXISTS Difficulty;
 DROP TABLE IF EXISTS Musician;
+GO
 
 
 CREATE TABLE Musician
